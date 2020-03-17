@@ -1,0 +1,12 @@
+background
+Steering_Wheel
+Wheel
+Damaged_Bonnet
+Right_Door
+Driver_Seat
+Left_Door
+Bonnet
+Side_Mirror
+Mustang
+Tail_Lamp
+Damaged_Left_Door
